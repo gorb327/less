@@ -1,0 +1,49 @@
+.bg {
+    background-color: steelblue;
+}
+.main {
+    display: flex;
+    justify-content: space-around;
+background-color: gold;
+
+}
+.block {
+    background-color: red;
+    width:  200px;
+}
+.main2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: gold;
+}
+.block2 {
+    background-color: red;
+    width: 200px;
+}
+.main3 {
+    display: flex;
+    justify-content: flex-start;
+    background-color: gold;
+}
+.block3 {
+    background-color: red;
+    width: 200px;
+}
+.main4 {
+    display: flex;
+    justify-content: flex-end;
+    background-color: gold;
+}
+.block4 {
+    background-color: red;
+    width: 200px;
+}
+.main5 {
+    display: flex;
+    justify-content: center;
+    background-color: gold;
+}
+.block5 {
+    background-color: red;
+    width: 200px;
+}

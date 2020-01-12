@@ -1,0 +1,18 @@
+.inline {
+    display: inline;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: red;
+}
+.inlineblock {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: royalblue;
+}
+.block {
+    display: block;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: slateblue;
+}
